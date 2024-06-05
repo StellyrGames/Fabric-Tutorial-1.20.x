@@ -1,5 +1,5 @@
 {
-  "type": "minecraft: block",
+  "type": "minecraft:block",
   "pools": [
     {
       "bonus_rolls": 0.0,
@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorialmod:ruby_block"
+          "name": "tutorialmod:raw_ruby_block"
         }
       ],
       "rolls": 1.0
